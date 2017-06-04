@@ -1,4 +1,4 @@
-## 4PDA WhiteGrey. Светлый CSS стиль для 4PDA.ru
+## 4PDA WhiteGrey. Светлый CSS стиль для портала 4PDA.ru
 
 ***
 Домашняя страница: coming soon
