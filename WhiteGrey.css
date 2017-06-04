@@ -1,0 +1,1532 @@
+﻿@-moz-document domain("4pda.ru") {
+/*FORUM*/
+body {
+    background: white !important;
+}
+#logostrip {
+    height: 90px !important;
+    background-color: transparent;
+}
+#logostrip img {
+	background: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/logo.png') !important;
+	height: 62px !important;
+	padding-right: 204px !important;
+	width: 0 !important;
+}
+.borderwrap, .borderwrapm {
+    background: #B0BEC5 !important;
+    border: 0px solid #b0bec5 !important;
+    padding: 7px !important;
+    border-radius: 5px !important;
+}
+.borderwrap h3, .maintitle, .maintitlecollapse {
+    background: white !important;
+    border-radius: 4px !important;
+    color: #263238 !important;
+    border-bottom: 0px solid #ffffff !important;
+}
+.borderwrap h3 {
+    background: transparent !important;
+}
+.maintitle td {
+    color: #263238 !important;
+}
+.borderwrap p {
+    background: white !important;
+    border-radius: 4px !important;
+    border: 0px solid #ccc !important;
+}
+.formtable td.formtitle, .formsubtitle {
+    background: white !important;
+    border-radius: 4px !important;
+}
+#ipbwrapper > div.borderwrap > form > div {
+    margin-top: 5px !important;
+}
+div.row1[style="padding: 4px;"] {
+    border-radius: 0 0 4px 4px !important;
+}
+div.formsubtitle[style="padding: 4px;"] {
+    border-radius: 4px 4px 0 0 !important;
+}
+body #ipbwrapper .borderwrap .formsubtitle:nth-child(1n+2) {
+    margin-top: 7px !important;
+}
+td.formbuttonrow, .pformstrip, .borderwrap p.formbuttonrow, .borderwrap p.formbuttonrow1 {
+    background: transparent !important;
+    border: none !important;
+}
+table.ipbtable, tr.ipbtable, td.ipbtable {
+    background: white !important;
+    border-radius: 4px !important;
+    border: 0px solid #b0bec5 !important;
+    margin-top: 7px !important;
+}
+table th, .borderwrap table th, .subtitle, .subtitlediv, .postlinksbar {
+    background: white !important;
+    border-bottom: 1px solid #b0bec5 !important;
+    color: #263238 !important;
+}
+.maintitle a:link, .maintitle a:visited, .maintitlecollapse a:link, .maintitlecollapse a:visited {
+    color: #263238 !important;
+}
+.plainborder, .tablefill, .tablepad {
+    background: #ffffff !important;
+    border-radius: 4px !important;
+    margin-top: 7px !important;
+}
+#fo_-1 .iptable div {
+    border: 0px solid white !important;
+    border-radius: 4px !important;
+    margin-top: 7px !important;
+}
+#fo_-1 .v-panel a {
+    color: white !important;
+}
+body #ipbwrapper form.borderwrap table.ipbtable {
+    margin-top: 0 !important;
+}
+.forumdesc {
+    color: #616161 !important;
+}
+.forumdesc a:link, .forumdesc a:visited, .forumdesc a:active {
+    color: #546E7A !important;
+}
+.row1[style="padding: 4px;"] a span, .postcolor a span, .signature a span, .borderwrap a span, .globalmesscontent a span {
+    display: inline-block !important;
+    text-decoration: none !important;
+    line-height: 0.95 !important;
+    border-bottom: 1px solid currentColor !important;
+}
+.row1[style="padding: 4px;"] a span:hover, .thin a:hover {
+    opacity: 0.7 !important;
+}
+.row1, .row2 {
+    background: white !important;
+    border-radius: 4px !important;
+}
+.catend {
+    display: none !important;
+}
+hr.sfr {
+    border-top: solid 1px #CFD8DC !important;
+}
+.toplinks span {
+    background: #b0bec5 !important;
+    border: 1px solid #b0bec5 !important;
+    color: #ffffff !important;
+    border-radius: 5px 5px 0 0 !important;
+}
+.toplinks span a {
+    color: white !important;
+}
+.darkrow1 {
+    background: #ffffff !important;
+    color: #222 !important;
+}
+.activeusers {
+    border: 0px solid #b0bec5 !important;
+    border-radius: 4px !important;
+}
+select {
+    background: #90A4AE !important;
+    border: 1px solid #B0BEC5 !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+}
+.input-warn, .input-green, .input-checkbox, input, textarea, select {
+    border: 1px solid #b0bec5 !important;
+    border-radius: 3px !important;
+}
+.borderwrap table th a:link, .subtitle a:link, .subtitlediv a:link, .borderwrap table th a:visited, .subtitle a:visited, .subtitlediv a:visited {
+    color: #37474F !important;
+}
+.subtitlediv, .postlinksbar {
+    border-radius: 4px !important;
+    margin-top: 7px !important;
+}
+.formsubtitle {
+    color: #37474F !important;
+}
+#userlinks, #userlinksguest {
+    background: #b0bec5 !important;
+    border: 0px solid #b0bec5 !important;
+    border-radius: 4px !important;
+    color: white !important;
+}
+#userlinks a {
+    color: white !important;
+}
+.usercp_menu, .usercp_menu_out {
+    color: #ffffff !important;
+    border: 0px solid #f0f5fa !important;
+}
+.usercp_menu {
+    background-color: #90A4AE !important;
+    border-radius: 2px !important;
+    color: #ffffff !important;
+}
+#ucpmenu, #ucpcontent {
+    border: 7px solid #b0bec5 !important;
+    background: white !important;
+    border-radius: 10px !important;
+}
+.pp-contentbox-back {
+    background-color: #b0bec5 !important;
+}
+#pp-iframe-wrap > table {
+    background: #b0bec5 !important;
+}
+.pp-contentbox-entry, .pp-contentbox-entry-noheight, .pp-contentbox-entry-noheight-mod, .pp-contentbox-entry-noheight-sel {
+    background-color: #ffffff !important;
+    border: 2px solid #78909C !important;
+    border-radius: 4px !important;
+}
+.ucp-vline {
+    border-left: 0px solid #90a4ae !important;
+}
+.pp-title {
+    background: white !important;
+    border-bottom: none !important;
+    border-radius: 4px !important;
+    color: #263238 !important;
+}
+fieldset {
+    border: none !important;
+}
+.popmenubutton-new, .popmenubutton {
+    background-color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+    border-radius: 3px !important;
+    color: #455A64 !important;
+}
+.popmenubutton a:link, .popmenubutton a:visited, .popmenubutton-new a:link, .popmenubutton-new a:visited {
+    color: #546E7A !important;
+}
+.popupmenu-item a:link, .popupmenu-item a:visited, .popupmenu-item-last a:link, .popupmenu-item-last a:visited, .upopupmenu-item a:link, .upopupmenu-item a:visited, .upopupmenu-item-last a:link, .upopupmenu-item-last a:visited {
+    color: #455A64 !important;
+}
+.popupmenu, .popupmenu-new {
+    background: #ffffff !important;
+    border: 1px solid #78909C !important;
+    border-radius: 4px !important;
+}
+.upopupmenu, .upopupmenu-new {
+    background: #ffffff !important;
+    border: 1px solid #78909c !important;
+    border-radius: 4px !important;
+}
+.popupmenu-item {
+    border-bottom: 0px solid #b0bec5 !important;
+}
+.popupmenu-category {
+    background: white !important;
+    border-top: 0px solid #b0bec5 !important;
+    border-bottom: 0px solid #b0bec5 !important;
+    border-radius: 4px 4px 0px 0px !important;
+    color: #37474F !important;
+}
+.footer-panel {
+    background: #78909c !important;
+}
+#footer {
+    background: white !important;
+}
+.footer-nav a {
+    color: #263238 !important;
+}
+.footer-panel a {
+    color: white !important;
+}
+.copyright {
+    border-radius: 4px !important;
+}
+.footer {
+    border-top: 1px solid #b0bec5 !important;
+}
+.btn {
+    background: #607d8b !important;
+    border: 0px solid #b0bec5 !important;
+    border-radius: 3px !important;
+    color: white !important;
+}
+.btn:hover, .btn:focus {
+    background: #90A4AE !important;
+}
+.btn.red {
+    background: #E53935 !important;
+    border-color: #e53935 !important;
+    color: #fff !important;
+}
+.btn.red:hover, .btn.red:focus, .btn.red:active, .btn.red.active {
+    background: #EF5350 !important;
+    border-color: #ef5350 !important;
+}
+.btn.blue {
+    background: #2196F3 !important;
+    border-color: #2196f3 !important;
+    color: #fff !important;
+}
+.btn.blue:hover, .btn.blue:focus, .btn.blue:active, .btn.blue.active {
+    background: #64B5F6 !important;
+    border-color: #64b5f6 !important;
+}
+.button, button.editor_button {
+    background: #78909C !important;
+    color: white !important;
+    border: 1px solid #78909C !important;
+}
+.pagelink, .pagelinklast, .pagecurrent, .minipagelink, .minipagelinklast {
+    background: transparent !important;
+    border: 0px solid #78909c !important;
+    font-weight: bold !important;
+    color: #37474F !important;
+}
+.pagecurrent {
+    background: #90A4AE !important;
+    padding: 2px 4px 2px 4px !important;
+    border-radius: 3px !important;
+    color: #ffffff !important;
+}
+.minipagelinklast {
+    background: white !important;
+    border-radius: 2px !important;
+}
+.minipagelinklast a {
+    color: #546E7A !important
+}
+.pagelink a, .minipagelink a {
+    color: #37474F !important;
+}
+.globalmesscontent {
+    background: white !important;
+    border-radius: 4px !important;
+}
+#go_1 {
+    background: #b0bec5 !important;
+    border: 1px solid #b0bec5 !important;
+    border-radius: 4px !important;
+    padding: 5px !important;
+}
+#go_1 > h4, #gc_1 > h4 {
+    background: transparent !important;
+    border: none !important;
+    color: #ffffff !important;
+}
+#gc_1 {
+    background: #b0bec5 !important;
+    border: 2px solid #b0bec5 !important;
+    border-radius: 4px !important;
+}
+#ipbwrapper .borderwrap form table.ipbtable tbody tr td.row1 .borderwrap {
+    background: #ffffff !important;
+    padding: 0px !important;
+    border-bottom: 1px solid #b0bec5 !important;
+    border-radius: 0 !important;
+}
+.borderwrap form .ipbtable[cellspacing="1"] {
+    margin-bottom: 7px !important;
+}
+#qr_open form .borderwrap .row1 {
+    margin-top: 7px !important;
+}
+#ipbwrapper .nopad .button, #ipbwrapper .barc .button, #ipbwrapper .bar .button {
+    display: inline-block  !important;
+    margin-top: -0.09rem !important;
+}
+#search-in-post-query-1, #search-in-post-query-2 {
+    border: 1px solid #90A4AE !important;
+    margin-top: 0.24rem !important;
+}
+#ipbwrapper div[style="font-weight:bold;text-align:center;background:#dff0d8;border:1px solid #d6e9c6;color:#3c763d;padding:10px;"] {
+    background: #DCEDC8 !important;
+    border-radius: 4px !important;
+    border: 1px solid #AED581 !important;
+}
+a:hover {
+    color: #607D8B;
+}
+.forumdesc a:hover {
+    color: #263238 !important;
+}
+#navstrip a:link, #navstrip a:visited, .ipb-top-left-link a:link, .ipb-top-left-link a:visited, .ipb-top-right-link a:link, .ipb-top-right-link a:visited {
+    color: #263238 !important;
+}
+#navstrip a:hover, .ipb-top-left-link a:hover, .ipb-top-left-link a:active, .ipb-top-right-link a:hover, .ipb-top-right-link a:active {
+    color: #607D8B !important;
+}          
+
+/*OTHER*/
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus
+input:-webkit-autofill, 
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  border: 0;
+  -webkit-text-fill-color: #263238 !important;
+  -webkit-box-shadow: 0 0 0px 1000px transparent inset !important;
+  transition: background-color 5000s ease-in-out 0s !important;
+  background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(0,174,255,0.04) 50%,rgba(255,255,255,0) 51%,rgba(0,174,255,0.03) 100%) !important;
+}
+input:focus, textarea:focus, keygen:focus, select:focus {
+    outline-color: #78909C !important;
+}
+#ipbwrapper .gobutton:focus, #ipb-tl-search_menu .button:focus {
+    outline-width: 0px !important;
+}
+.formsubtitle > .forminput, select {
+    outline: none !important;
+}
+button:focus {
+    outline: none !important;
+}
+.pcen a {
+    color: white !important;
+}
+
+/*TOPIC*/
+.borderwrap table.ipbtable[data-post] tr:nth-child(2) td:nth-child(2) > div {
+    color: transparent !important;
+}
+.borderwrap table.ipbtable[data-post] tr:nth-child(2) td:nth-child(2) .postcolor {
+    color: #222 !important;
+}
+.borderwrap table.ipbtable[data-post] tr:nth-child(2) td:nth-child(2) .signature {
+    padding: 3px 0 0 2px !important;
+    border-top: 1px solid #b0bec5 !important;
+}
+.post-edit-reason {
+    background: #ffffff !important;
+    padding: 0 !important;
+    color: #263238 !important;
+    font-weight: bold !important;
+    border: none !important;
+}
+#gfooter {
+    background: #90a4ae !important;
+    border-radius: 3px !important;
+}
+.post1, .bg1, .post2, .bg3 {
+    background: transparent !important;
+}
+.bar, .barb, .barc {
+    background: transparent !important;
+    border: 0px solid #fff !important;
+    margin-top: 7px !important;
+}
+.post-block.quote > .block-title, .post-block.code > .block-title, .post-block.hidden > .block-title, .post-block.spoil > .block-title, .post-block.spoil > .block-body {
+    background: none !important;
+}
+.post-block.code > .block-title {
+    background: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/code.png') no-repeat right !important;
+}
+.post-block.quote > .block-title {
+    background: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/quotes.png') no-repeat right !important;
+}
+.post-block {
+    border: none !important;
+}
+.post-block.spoil > .block-title * {
+    color: inherit !important;
+} 
+.post-block.spoil > .block-title {
+    color: #222 !important;
+}
+.post-block.spoil > .block-body {
+    color: #263238 !important;
+}
+.post-block.spoil {
+    background: #CFD8DC !important;
+    border: 1px solid #cfd8dc !important;
+    border-radius: 3px !important;
+}
+.post-block.spoil.open {
+    background: #FAFAFA !important;
+}
+.post-block.quote {
+    background: #E0E0E0 !important;
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 4px !important;
+    padding: 0px 4px 4px 4px !important;
+}
+.post-block.code {
+    background: #CFD8DC !important;
+    border: 1px solid #cfd8dc !important;
+    border-radius: 4px !important;
+    padding: 0px 4px 4px 4px !important;
+}
+.post-block.hidden {
+    background: #ECEFF1 !important;
+    border: 1px solid #eceff1 !important;
+    border-radius: 4px !important;
+    padding: 0px 4px 4px 4px !important;
+}
+.post-block.quote > .block-body, .post-block.code > .block-body, .post-block.hidden > .block-body {
+    background: white !important;
+    border-radius: 3px !important;
+}
+.post-block.quote > .block-title, .post-block.quote > .block-body, .post-block.code > .block-title, .post-block.hidden > .block-title {
+    color: #263238 !important;
+}
+.post-block.code > .block-body {
+    color: #37474F !important
+}
+.post-block.hidden > .block-body {
+    color: #455A64 !important;
+}
+.post-block.quote > .block-title:before {
+    content: 'Цитата: ' !important;
+}
+.post-block.quote > .block-title:after {
+    content: '' !important;
+}
+.post-block.code.box > .block-title:before {
+    content: 'Развернуть Код' !important;
+}
+.post-block.code.unbox > .block-title:before {
+    content: 'Свернуть Код' !important;
+}
+.post-block.tbl {
+    border: none !important;
+    background: none !important;
+}
+.post-block.tbl > * {
+    color: #e3f2fd !important;
+}
+.post-block.tbl > .block-title {
+    border-radius: 4px 0 0 4px !important;
+}
+.post-block.mod > .block-body, .post-block.ex > .block-body, .post-block.cur > .block-body {
+    border-radius: 0px 4px 4px 0px !important;
+}
+.post-block.mod > .block-title, .post-block.mod > .block-body {
+    background: white !important;
+    color: #0277BD !important;
+    box-shadow: 0px 0px 0px 3px currentColor !important;
+}
+.post-block.ex > .block-title, .post-block.ex > .block-body {
+    background: white !important;
+    color: #e91e63 !important;
+    box-shadow: 0px 0px 0px 3px currentColor !important;
+}
+.post-block.cur > .block-title, .post-block.cur > .block-body {
+    background: white !important;
+    color: #43A047 !important;
+    box-shadow: 0px 0px 0px 3px currentColor !important;
+}
+.resized-linked-image {
+    background-color: #E0E0E0 !important;
+    border: 1px solid #e0e0e0 !important;
+    border-radius: 4px !important;
+}
+.signature {
+    color: #616161 !important;
+}
+.postdetails center a, .postdetails center {
+    color: #37474F !important;
+}
+.postdetails center a:hover {
+    color: #546e7a !important;
+}
+.barc a {
+    color: white !important;
+}
+table.ipbtable[data-post] tr:nth-child(1) td {
+    color: #37474F !important;
+}
+#lbOuterContainer.grey, #lbDetailsContainer.grey {
+    border: none !important;
+}
+#lbDetailsContainer {
+    border-radius: 0 0 4px 4px !important;
+}
+#lbOuterContainer {
+    border-radius: 4px 4px 0 0 !important;
+}
+#lbDetailsData.grey {
+    color: #37474F !important;
+}
+.postdetails center font[color="green"], .postdetails center font[color="red"] {
+    color: transparent !important; 
+}
+.postdetails center font[color="green"]:after {
+    top: 0.5rem !important;
+    display: block !important;
+    width: 3rem !important;
+    height: 0.9rem !important;
+    margin: -1rem !important;
+    position: relative !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+.postdetails center font[color="red"]:after {
+    top: 0.5rem !important;
+    display: block !important;
+    width: 3rem !important;
+    height: 0.9rem !important;
+    margin: -1rem !important;
+    position: relative !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+.postdetails center font[color="green"]:after {
+    content: "Online" !important;
+    color: #009688 !important
+}
+.postdetails center font[color="red"]:after {
+    content: "Offline" !important;
+    color: #EF5350 !important
+}
+
+/*POSTINGFORM*/
+.ed-wrap .ed-panel {
+    background: transparent !important;
+    color: #37474F !important;
+}
+.ed-wrap .ed-vtoggle-normal, .ed-wrap .ed-vtoggle-hover, .ed-wrap .ed-vtoggle-down {
+    background-color: #ffffff !important;
+    color: #37474F !important;
+    border-radius: 2px !important;
+}
+.ed-wrap .ed-vtoggle-hover{
+    background-color: #CFD8DC !important;
+}
+.attach-menubutton {
+    border: 1px solid #b0bec5 !important;
+    border-radius: 3px !important;
+    color: white !important;
+    background-color: #90A4AE !important;
+    background-image: none !important;
+}
+.attach-popupmenu {
+    background-color: #b0bec5 !important;
+    border: 1px solid #90a4ae !important;
+    color: white !important;
+    border-radius: 3px !important;
+}
+.attach-menu-row-over {
+    background: #78909C !important;
+    border-radius: 3px !important;
+}
+.input-ok-content {
+    background-color: #43A047 !important;
+    color: white !important;
+    border: 1px solid #43a047 !important;
+}
+.darkrow3 {
+    background: #ffffff !important;
+    border-radius: 4px !important;
+    color: #455A64 !important;
+}
+.postcolor[style="padding:4px; background-color: #F0F7FF;"] {
+    background: #ffffff !important;
+    border-radius: 4px !important;
+    margin-top: 7px !important;
+}
+.ipbtable tbody tr td div[style="width:100%;"], .ipbtable tbody tr td div[style="width:100%;text-align:center"] {
+    padding: 1px !important;
+}
+.check_list_div {
+    border-color: #b0bec5 !important;
+    border-radius: 3px !important;
+}
+.ed-wrap div.ed-bbcode-normal, .ed-wrap div.ed-bbcode-hover, .ed-wrap div.ed-bbcode-down, .ed-wrap .ed-panel-title {
+    color: #37474F !important;
+}
+.ed-wrap .ed-bbcode-hover {
+    background-color: #eceff1 !important;
+    border: solid 1px #eceff1 !important;
+    border-radius: 2px !important;
+}
+.ed-wrap .ed-bbcode-down {
+    background-color: #CFD8DC !important;
+    border: solid 1px #CFD8DC !important;
+    border-radius: 2px !important;
+}
+
+/*PROFILE*/
+body > div > div > div > div > div > form > ul > li {
+    border: 7px solid #B0BEC5 !important;
+    border-radius: 12px !important;
+    padding: 15px !important;
+}
+.profile-textarea {
+    border: 2px solid #b0bec5 !important;
+    background: #ffffff !important;
+    border-radius: 6px !important;
+}
+.social-link li:after {
+    background: #4caf50 !important;
+    border-radius: 6px !important;
+}
+.info-list .warn-btn {
+    background: #ffffff !important;
+    border: 1px solid #607D8B !important;
+    color: #607D8B !important;
+    border-radius: 3px !important;
+}
+.profile-text {
+    background: #F5F5F5 !important;
+    border: 1px solid #b0bec5 !important;
+    border-radius: 4px !important;
+}
+.btn-link {
+    background: #90A4AE !important;
+    border: 1px solid #90a4ae !important;
+    color: #ffffff !important;
+    padding: 0 3px 1px 4px !important;
+    border-radius: 3px !important;
+    margin: 3px 0 0 3px !important;
+}
+form > ul > li a {
+    color: #263238 !important;
+}
+
+/*QMS*/
+.form-bg {
+    background: #ffffff !important;
+}
+.body-thread-form {
+    border-top: 0px solid #b0bec5 !important;
+}
+.ac_odd {
+    background: #B0BEC5 !important;
+}
+#events-count {
+    background: #546E7A !important;
+}
+#events-wrapper {
+    border: solid 1px #546e7a !important;
+}
+#events-list > a:hover {
+    background: #78909C !important;
+    color: white !important;
+}
+#body.body div.body-tbl div svg {
+    display: none !important;
+}
+.navbar {
+    border-bottom: 1px solid #b0bec5 !important;
+}
+#contacts {
+    border-right: 1px solid #b0bec5 !important;
+}
+.list-group .list-group-item:hover, .list-group .list-group-item:focus, .list-group .list-group-item:active {
+    background: #CFD8DC !important;
+}
+.list-group .list-group-item, .text {
+    background: #ECEFF1 !important;
+    border-radius: 4px !important;
+}
+.list-group .list-group-item {
+    border-bottom: 0px solid #b0bec5 !important;
+    margin: 5px 11px 5px 10px !important;
+}
+.list-group-item.our-message {
+    margin-left: 100px !important;
+    background: #F5F5F5 !important;
+    color: #424242 !important
+}
+.thread-list .list-group-item:hover {
+    background: rgba(0, 0, 0, 0.05) !important;
+}
+.list-group a, #navbar-title > b > a {
+    color: #37474F !important;
+}
+.msgbox.error .bage {
+    color: #F44336 !important;
+    background: transparent !important;
+}
+.msgbox.error {
+    color: #F44336 !important;
+}
+.bage {
+    background: transparent !important;
+}
+.thread-list .date {
+    border-top: none !important;
+    color: white !important;
+}
+.thread-list .date .text {
+    background: #78909C !important;
+    border: 1px solid #78909C !important;
+    padding: 5px 10px 3px 10px !important;
+    font-weight: bold !important;
+}
+.dropdown-menu {
+    border: 1px solid #B0BEC5 !important;
+    border-radius: 4px !important;
+}
+.dropdown-menu .divider {
+    background-color: #B0BEC5 !important;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #fff !important;
+    background-color: #b0bec5 !important;
+}
+#body > div > div.nav-right > div > ul > li:nth-child(n) {
+    border: none !important;
+}
+.icon-close {
+    color: #263238  !important;
+}
+.msgbox.info .bage {
+    color: #455A64 !important;
+    background: transparent !important;
+}
+.msgbox.info {
+    color: #546E7A !important;
+}
+input.btn.block.blue {
+    background: #90A4AE !important
+}
+input.btn.block.blue:hover {
+    background: #78909C !important
+}
+.toggle-node-btn {
+    color: black !important;
+    border-radius: 5px !important;
+    margin: 7px -7px !important;
+}
+.bb-codes {
+    background: #90A4AE !important;
+    border: 1px solid #90a4ae !important;
+    border-radius: 4px !important;
+}
+#panel-bb-codes button {
+    background: white !important;
+    color: #37474F !important;
+}
+#panel-bb-codes button:hover {
+    background: #CFD8DC !important;
+}
+
+/*NAV*/
+#header .h-frame {
+    background: #78909C !important;
+}
+#nav ul li:not([class=""]) a {
+    background: #546E7A !important;
+    color: #ffffff !important;
+}
+#nav ul li > *:hover {
+    background: #B0BEC5 !important;
+    color: #ffffff !important;
+}
+#nav ul li > *.slider-active {
+    color: #263238 !important;
+}
+.slider-content .meta-box {
+    background: #b0bec5 !important;
+    border: 1px solid #b0bec5 !important;
+}
+.slider-content {
+    border: 3px solid #78909c !important;
+    border-top: 0 !important;
+    background: #b0bec5 !important;
+    border-radius: 0px 0px 9px 9px !important;
+}
+.slider-content .article-box h3 {
+    background: white !important;
+    padding: 5px !important;
+    border-radius: 4px !important;
+    text-align: center !important;
+}
+.slider-content .meta-box a {
+    background: #78909c !important;
+    border-radius: 3px !important;
+}
+.slider-content .meta-box a:hover, .slider-content .meta-box a.active {
+    color: #ffffff !important;
+    background: #546e7a !important;
+    border-radius: 3px !important;
+}
+.events-count {
+    background: #546E7A !important;
+}
+.events-popup a {
+    color: white !important;
+}
+.events-popup {
+    background: #546e7a !important;
+    border: 1px solid #546e7a !important;
+}
+.events-popup a:hover, .events-popup a:focus {
+    background: #78909C !important;
+}
+#nav ul {
+    background: #78909c !important;
+    border-top: 0px solid #fff !important;
+}
+.hover #nav .title span {
+    background: #607D8B !important;
+    color: #fff !important;
+}
+#nav .title span {
+    color: #37474F !important;
+    border-radius: 3px !important;
+}
+.btn-search1 {
+    background: #ECEFF1 !important;
+    color: #546e7a !important;
+}
+.drop-search {
+    border-top: 0px solid #fff !important;
+    background: #78909c !important;
+}
+.drop-search .search-form {
+    background: #78909c !important;
+}
+.btn-search {
+    color: #607d8b !important;
+}
+.btn-search:hover {
+    color: #B0BEC5 !important;
+}
+.search-form {
+    border-radius: 3px !important;
+}
+.overlay-block .overlay-orange {
+    background: #8BC34A !important;
+}
+.i-code.open > a, .i-code:hover > a {
+    color: #ffffff !important;
+}
+.i-code.open, .i-code:hover {
+    background: #78909c !important;
+}
+.i-code .dropdown-menu {
+    border-radius: 4px !important;
+    border: solid 1px #b0bec5 !important;
+    background: #ffffff !important;
+}
+.i-code .dropdown-menu > li > a {
+    color: #263238 !important;
+}
+.icon-text-overlay.blue {
+    background-color: #263238 !important;
+}
+.i-code .dropdown-menu > li > a:hover, .i-code .dropdown-menu > li > a:focus {
+    color: #fff !important;
+    background: #b0bec5 !important;
+}
+.search-form input[type="text"], .btn-search input {
+    border: none !important;
+}
+
+/* Site */
+body > div > div > div > div > div > ul > li {
+    background: #ffffff !important;
+    border: 2px solid #B0BEC5 !important;
+    border-radius: 5px !important;
+}
+aside > div:nth-child(n), body > div > div > div > div > div > section > aside > div > div:nth-child(n) {
+    background: #ffffff !important;
+    border-color: #B0BEC5 !important;
+    border-radius: 5px !important;
+    border-width: 2px !important;
+}
+section {
+    background: transparent !important;
+    border:none !important;
+}
+.post {
+    border: 2px solid #b0bec5 !important;
+    border-radius: 5px !important;
+}
+.post .visual img {
+    border-radius: 4px 0 0 4px !important;
+}
+.post .v-panel {
+    border-radius: 0 0 0 4px !important;
+    color: #222 !important;
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+.news-list .number {
+    color: #37474F !important;
+    background: #CFD8DC !important;
+    border-radius: 4px !important;
+}
+.post .v-panel .v-count, .post .btn-more, .testimonials-list .h-count, .top-product-list .t-count, .product-detail .more-box .number, .product-detail .more-box .count-autor, .poll-list .slider .value {
+    background: #90A4AE !important;
+}
+.v-panel .v-count {
+    background: #b0bec5 !important;
+}
+.poll-list .text {
+    background: transparent !important;
+}
+.price-slider .ui-slider .ui-slider-range {
+    background: #b0bec5 !important;
+}
+.price-slider .ui-slider .ui-slider-handle {
+    background: #78909c !important;
+}
+.price-slider .ui-slider .ui-slider-handle span {
+    border-top: 8px solid #78909c !important;
+}
+.top-product-list .line {
+    background: #CFD8DC !important;
+    margin-bottom: -1px !important;
+}
+.slider-list span a, .testimonials-list h3 a, .top-product-list .t-holder span.title a {
+    color: #263238 !important;
+}
+.content a, .search-box .heading dd a {
+    color: #37474F !important;
+}
+.testimonials-list p {
+    color: #00695C !important;
+}
+.testimonials-list .meta-box span a {
+    color: #4CAF50 !important;
+}
+.container, .page-nav.box, .comment-box {
+    border: 2px solid #b0bec5 !important;
+    border-radius: 5px !important;
+}
+.product-detail {
+    background: transparent !important;
+    border-bottom: 2px solid #b0bec5 !important;
+}
+.product-detail .photo img {
+    border-radius: 4px 0 0 0 !important;
+}
+.comment-box .heading {
+    border-bottom: 2px solid #b0bec5 !important;
+}
+.comment-box .comment-list .karma .num-wrap, .comment-box .comment-list .karma .num {
+    background: transparent !important;
+    color: #263238 !important;
+    font-weight: bold !important;
+}
+.notice.red {
+    background: #E53935 !important;
+    border-radius: 4px !important;
+}
+.btn.white {
+    background: #fff !important;
+    border-color: #ffffff !important;
+    color: #263238 !important;
+}
+.btn.white:hover, .btn.white:focus {
+    background: #CFD8DC !important;
+}
+.btn.green {
+    background: #009688 !important;
+    border-color: #009688 !important;
+    color: white !important;
+}
+.btn.green:hover, .btn.green:focus {
+    background: #4DB6AC !important;
+}
+.btn.iblock {
+    color: white !important;
+}
+.page-nav li.active a, .page-nav a:hover {
+    background: #90A4AE !important;
+    border-radius: 3px !important;
+}
+.box-title {
+    border-bottom: 2px solid #b0bec5 !important;
+}
+.poll-list .slider .range {
+    background: #cfd8dc !important;
+    position: relative !important;
+}
+.comment-box .comment-list .karma a, .comment-box .comment-list .karma [data-karma-act], span.more-meta a, .comment-box .comment-list .h-meta {
+    color: #546E7A !important;
+}
+.btn-review-all a {
+    background: #90A4AE !important;
+    border-radius: 3px !important;
+}
+.content h2 {
+    color: #37474F !important;
+}
+.search-box, .search-list li {
+    border: solid 2px #b0bec5 !important;
+    border-radius: 5px !important;
+}
+.gray-row, .black-row, .white-row {
+    background: #F5F5F5 !important;
+}
+.content-box ul li:before, .content-box .item-list li:before {
+    background: #607D8B !important;
+}
+.content-box blockquote {
+    border-left: 24px solid transparent !important;
+}
+.content-box blockquote:before {
+    color: #607D8B !important;
+}
+.search-list .photo img {
+    border-radius: 4px 0 0 4px !important;
+}
+.post p a {
+    color: #607D8B !important;
+}
+.v-panel a {
+    color: #222 !important;
+}
+.post .v-panel .v-count, .post .v-panel .v-count a {
+    color: #fff !important;
+}
+.post .list-post-title a:hover, .post h2 a:hover {
+    color: #607D8B !important;
+}
+#comments div:nth-child(2) a {
+    color: #37474F !important
+}
+
+/*AUTH*/
+.page, .pages {
+    background: #b0bec5 !important;
+    border-radius: 4px !important;
+}
+#h-wrapper {
+    border: 0px solid #b0bec5 !important;
+}
+.input-wrap {
+    background: transparent !important;
+}
+.title {
+    color: #37474F !important;
+}
+
+/*DEVDB*/
+.ac_results {
+    border: solid 1px #b0bec5 !important;
+    background: #90A4AE !important;
+    border-radius: 2px !important;
+    color: white !important;
+}
+.ac_over {
+    background: #607D8B !important;
+    border-radius: 2px !important;
+}
+.ddb-wframe {
+    border: solid 2px #78909c !important;
+    border-radius: 5px !important;
+}
+.device-frame {
+    border: solid #78909c !important;
+    border-radius: 0 0 8px 8px !important;
+    border-width: 0 6px 6px 6px !important;
+}
+.types-list .type-row {
+    background: #ffffff !important;
+}
+.types-list a, .types-list a:visited, .types-list a:hover {
+    color: #607D8B !important;
+}
+.device-frame .letters {
+    color: #607D8B !important;
+}
+.device-frame a {
+    color: #263238 !important;
+}
+.device-frame .breadcrumbs, .device-frame .select-empty-label:empty:after {
+    color: #78909C !important;
+}
+.device-frame .tab-control .active a {
+    background: #607d8b !important;
+    color: #fff !important;
+}
+.device-frame .tab-control {
+    border-bottom: 1px solid #78909c !important;
+}
+.btn.noborder {
+    color: white !important;
+}
+.device-frame .comment-form h3 {
+    background: #78909c !important;
+    border-radius: 3px !important;
+}
+.device-frame .comment-form .radio input[type="radio"] + span {
+    background: rgba(204, 204, 204, 0.8) !important;
+}
+.device-frame .filter-form {
+    background: #ffffff !important;
+    border: 1px solid #B0BEC5 !important;
+    border-radius: 4px !important;
+}
+.device-frame .filter-form .heading .title [class^="icon-"], .device-frame .filter-form .heading .title [class*=" icon-"] {
+    color: #455A64 !important;
+}
+.device-index-header {
+    color: #78909C !important;
+}
+
+/*IMAGES & BUTTONS*/
+#ipbwrapper .nopad a[href*="reply"] img, #ipbwrapper .barc a[href*="reply"] img, #ipbwrapper .bar a[href*="reply"] img, #ipbwrapper .nopad a[href*="javascript:ShowHide"] img, #ipbwrapper .barc a[href*="javascript:ShowHide"] img, #ipbwrapper .bar a[href*="javascript:ShowHide"] img, #ipbwrapper table tbody tr td.nopad a img, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a img, a[title="Удалить пост"] img {
+    display: none !important;
+}
+#ipbwrapper .nopad a[href*="reply"]:before, #ipbwrapper .barc a[href*="reply"]:before, #ipbwrapper .bar a[href*="reply"]:before, #ipbwrapper .nopad a[href*="javascript:ShowHide"]:before, #ipbwrapper .barc a[href*="javascript:ShowHide"]:before, #ipbwrapper .bar a[href*="javascript:ShowHide"]:before {
+    display: inline-block !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    background: #b0bec5 !important;
+    border-radius: 0.2rem !important;
+    font-size: 0.655rem !important;
+    margin: 0 0.15rem !important;
+    padding: 0.25rem 0.5rem !important;
+}
+#ipbwrapper table tbody tr td.nopad a:before {
+    display: inline-block !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    background: #90A4AE !important;
+    border-radius: 0.2rem !important;
+    font-size: 0.655rem !important;
+    margin: 0 0.15rem !important;
+    padding: 0.25rem 0.5rem !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span a, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a:before, a[title="Удалить пост"]:before {
+    padding: 0.13rem 0.35rem !important;
+    display: inline-block !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    background: #b0bec5 !important;
+    border-radius: 0.2rem !important;
+    font-size: 0.655rem !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(1) div a[href*="devfaq"] {
+    margin-top: -0.1175rem !important;
+    text-decoration: none !important;
+    margin-right: 0.9rem !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span {
+  margin-top: 0.125rem !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(1) div a[href="javascript:scroll(0,0);"]:before {
+  content: 'Up';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(1) div a[href*="report"]:before {
+  content: 'Жалоба';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[style="float: left;"] a[href*="javascript:ins"]:before {
+  content: 'Имя';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[style="float: left;"] a[href="javascript:pasteQ();"]:before {
+  content: 'Цитировать';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[align="right"] a[id*="edit"]:before {
+  content: 'Изменить';
+}
+a[title="Удалить пост"]:before {
+  content: 'Удалить';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",-1);"]:before {
+    content: 'Плохо';
+    color: #E53935 !important;
+    background: white !important;
+    border: 1px solid #E53935 !important;
+    padding: 0.07rem 0.3rem !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",1);"]:before {
+    content: 'Хорошо';
+    color: #009688 !important;
+    background: white !important;
+    border: 1px solid #009688 !important;
+    padding: 0.07rem 0.3rem !important;
+}
+#ipbwrapper .nopad a[href*="javascript:ShowHide"]:before, #ipbwrapper .barc a[href*="javascript:ShowHide"]:before, #ipbwrapper .bar a[href*="javascript:ShowHide"]:before {
+    content: 'Быстрый ответ';
+}
+#ipbwrapper .nopad a[href*="reply"]:before, #ipbwrapper .barc a[href*="reply"]:before, #ipbwrapper .bar a[href*="reply"]:before {
+    content: 'Ответить';
+}
+#ipbwrapper table tbody tr td.nopad a:before {
+    content: 'Новая Тема';
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span a:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a:hover, a[title="Удалить пост"]:hover {
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3) !important;
+}
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",1);"]:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",-1);"]:hover, #ipbwrapper table tbody tr td.nopad a:hover, #ipbwrapper .nopad a[href*="reply"]:hover, #ipbwrapper .barc a[href*="reply"]:hover, #ipbwrapper .bar a[href*="reply"]:hover, #ipbwrapper .nopad a[href*="javascript:ShowHide"]:hover, #ipbwrapper .barc a[href*="javascript:ShowHide"]:hover, #ipbwrapper .bar a[href*="javascript:ShowHide"]:hover {
+    opacity: 0.8 !important;
+}
+.postdetails img[alt="+"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/plus.png') !important;
+	height: 10px !important;
+    padding-right: 10px !important;
+    width: 0 !important;
+}
+.postdetails img[alt="-"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/minus.png') !important;
+    height: 10px !important;
+    padding-right: 10px !important;
+    width: 0 !important;
+}
+img[alt=">N"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/to%20unread%20message.png') !important;
+    background-repeat: no-repeat !important;
+    height: 11px !important;
+    padding-right: 11px !important;
+    width: 0 !important;
+}
+a[title="К последнему сообщению"] img {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/to%20last%20message.png') !important;
+    height: 10px !important;
+    padding-right: 10px !important;
+    width: 0 !important;
+}
+td[center] .row2 img {
+    background-image: none !important;
+    width: 0 !important;
+}
+img[alt="PM"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/PM.png') !important;
+	height: 21px !important;
+	padding-right: 57px !important;
+	width: 0 !important
+}
+img[alt="@"] {
+	background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/attachment%20(2).png') !important;
+    background-repeat: no-repeat !important;
+	height: 11px !important;
+	padding-right: 15px !important;
+	width: 0 !important
+}
+.usercp_menu, .usercp_menu_out {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/ucp%20menu.png') !important;
+}
+#ipbwrapper .gobutton, #ipb-tl-search_menu .button {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/search%20button.png') !important;
+    background-repeat: no-repeat !important;
+    background-color: transparent !important;
+    border: none !important;
+    margin-top: 5px !important;
+    height: 20px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+#ips-attach-menu img, #ips-attach-menu0 img, #ips-attach-menu1 img, #ips-attach-menu2 img, #ips-attach-menu3 img, #ips-attach-menu4 img {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/ips%20attach%20menu.png') !important;
+    background-repeat: no-repeat !important;
+	height: 16px !important;
+	padding-right: 18px !important;
+	width: 0 !important
+}
+#lbClose.grey {
+    background: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/lbclose.png') no-repeat !important;
+}
+.postdetails img[alt="*"], #pp-iframe-wrap img[alt="*"] {
+    background-image: none !important;
+    border: 1px solid #78909C !important;
+    margin-right: 2px !important;
+    border-radius: 2px !important;
+    height: 6px !important;
+    padding-right: 6px !important;
+    width: 0 !important;
+}
+.postdetails img[alt="-----"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/_%20_%20_%20_%20_.png') !important;
+    height: 10px !important;
+    padding-right: 50px !important;
+    width: 0 !important;
+}
+img[style="padding-bottom:2px"] {
+    padding-right: 9px !important;
+    width: 0 !important;
+}
+img[src$="post_snapback.gif"], a[title="Перейти к сообщению"] img {
+	background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/snapback.png') !important;
+	height: 12px !important;
+	padding-right: 12px !important;
+    margin-bottom: 2px !important;
+	width: 0
+}
+img[alt="Показать объявления"],a[href$="0);"] img {
+	background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/show.png') !important;
+	height: 10px !important;
+	padding-right: 10px !important;
+	width: 0 !important
+}
+img[alt="Скрыть объявления"],a[href$="1);"] img {
+	background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/hide.png') !important;
+	height: 10px !important;
+	padding-right: 10px !important;
+	width: 0 !important
+}
+#navstrip img[alt$=">"], img[src$="menu_item.gif"] {
+    background-image: none !important;
+    width: 0 !important;
+}
+.popmenubutton-new {
+    background-image: none !important;
+}
+#ipbwrapper .gobutton:focus, #ipb-tl-search_menu .button:focus {
+    outline-width: 0px !important;
+}
+img[title="Открыть меню"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/openmenu.png') !important;
+    height: 4px !important;
+    padding-right: 8px !important;
+	width: 0 !important
+}
+.maintitlecollapse img[alt=">"], .maintitle img[alt=">"], .borderwrap h3 img[alt=">"] { 
+    background-image: none !important;
+    display: none !important;
+}
+form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(1), form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(2), form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(3) {
+    background-image: none !important;
+    background: #cfd8dc !important
+}
+form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(1) {
+    height: 11px !important;
+	padding-right: 4px !important;
+	width: 0 !important;             
+}
+form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(2) {
+    height: 0px !important;
+	padding-top:11px !important;
+}
+form[action$="poll=1"] table[cellpadding="4"] td img:nth-child(3) {
+    height: 11px !important;
+	padding-right: 4px !important;
+	width: 0 !important;
+}
+
+/* BBCodes */
+img[alt="Жирный"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/bold.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Курсив"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/i.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Подчёркивание"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/u.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Зачёркивание"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/s.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Подстрочный текст"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/sub.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Надстрочный текст"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/sup.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Влево"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/left.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="По центру"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/center.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Вправо"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/right.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Вставить гиперссылку"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/url.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+img[alt="Вставить цитату"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/quote.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Оффтоп"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/offtop.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+img[alt="Вставить код"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/code.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Сделать текст сворачиваемым"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/spoiler.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Сделать текст сворачиваемым и добавить заголовок"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/spoil.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Скрытый текст"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/hide.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Вставить список"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/list.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Вставить нумерованный список"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/numlist.png') !important;
+    height: 22px !important;
+    padding-right: 22px !important;
+    width: 0 !important;
+}
+img[alt="Удалить все BB коды"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/clear.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+img[alt="Помощь по ББ кодам"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/bb_help.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+img[alt="Уменьшить форму ответа"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/area_minus.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+img[alt="Увеличить форму ответа"] {
+    background-image: url('https://raw.githubusercontent.com/LEKS2FAST/4PDA_WhiteGrey/master/Images/BB%20Black/area_plus.png') !important;
+    height: 22px !important;
+    padding-right: 20px !important;
+    width: 0 !important;
+}
+}
