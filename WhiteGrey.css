@@ -439,6 +439,7 @@ button:focus {
 }
 .post-block.spoil > .block-body {
     color: #263238 !important;
+    padding: 7px !important;
 }
 .post-block.spoil {
     background: #CFD8DC !important;
@@ -507,18 +508,27 @@ button:focus {
 .post-block.mod > .block-title, .post-block.mod > .block-body {
     background: white !important;
     color: #0277BD !important;
-    box-shadow: 0px 0px 0px 3px currentColor !important;
 }
 .post-block.ex > .block-title, .post-block.ex > .block-body {
     background: white !important;
     color: #e91e63 !important;
-    box-shadow: 0px 0px 0px 3px currentColor !important;
 }
 .post-block.cur > .block-title, .post-block.cur > .block-body {
     background: white !important;
     color: #43A047 !important;
-    box-shadow: 0px 0px 0px 3px currentColor !important;
 }
+.post-block.tbl.mod {
+    box-shadow: 0px 0px 0px 3px #0277BD !important;
+    border-radius: 4px !important;
+}   
+.post-block.tbl.ex {
+    box-shadow: 0px 0px 0px 3px #e91e63 !important;
+    border-radius: 4px !important;
+}
+.post-block.tbl.cur {
+    box-shadow: 0px 0px 0px 3px #43A047 !important;
+    border-radius: 4px !important;
+}     
 .resized-linked-image {
     background-color: #E0E0E0 !important;
     border: 1px solid #e0e0e0 !important;
@@ -1190,22 +1200,19 @@ section {
     padding: 0.25rem 0.5rem !important;
 }
 #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span a, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a:before, a[title="Удалить пост"]:before {
-    padding: 0.13rem 0.35rem !important;
+    padding: 2.5px 5px !important;
     display: inline-block !important;
     font-weight: bold !important;
     text-transform: uppercase !important;
     color: #ffffff !important;
     background: #b0bec5 !important;
-    border-radius: 0.2rem !important;
-    font-size: 0.655rem !important;
+    border-radius: 3px !important;
+    margin: 1px 0px 0px 0px !important;
 }
 #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(1) div a[href*="devfaq"] {
-    margin-top: -0.1175rem !important;
+    margin-top: -2px !important;
     text-decoration: none !important;
-    margin-right: 0.9rem !important;
-}
-#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span {
-  margin-top: 0.125rem !important;
+    margin-right: 11.5px !important;
 }
 #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(1) div a[href="javascript:scroll(0,0);"]:before {
   content: 'Up';
@@ -1227,17 +1234,17 @@ a[title="Удалить пост"]:before {
 }
 #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",-1);"]:before {
     content: 'Плохо';
-    color: #E53935 !important;
+    color: #EF5350 !important;
     background: white !important;
-    border: 1px solid #E53935 !important;
-    padding: 0.07rem 0.3rem !important;
+    border: 1px solid #EF5350 !important;
+    padding: 1.5px 8px !important;
 }
 #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",1);"]:before {
     content: 'Хорошо';
-    color: #009688 !important;
+    color: #26A69A !important;
     background: white !important;
-    border: 1px solid #009688 !important;
-    padding: 0.07rem 0.3rem !important;
+    border: 1px solid #26A69A !important;
+    padding: 1.5px 8px !important;
 }
 #ipbwrapper .nopad a[href*="javascript:ShowHide"]:before, #ipbwrapper .barc a[href*="javascript:ShowHide"]:before, #ipbwrapper .bar a[href*="javascript:ShowHide"]:before {
     content: 'Быстрый ответ';
@@ -1248,10 +1255,7 @@ a[title="Удалить пост"]:before {
 #ipbwrapper table tbody tr td.nopad a:before {
     content: 'Новая Тема';
 }
-#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span a:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a:hover, a[title="Удалить пост"]:hover {
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3) !important;
-}
-#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",1);"]:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",-1);"]:hover, #ipbwrapper table tbody tr td.nopad a:hover, #ipbwrapper .nopad a[href*="reply"]:hover, #ipbwrapper .barc a[href*="reply"]:hover, #ipbwrapper .bar a[href*="reply"]:hover, #ipbwrapper .nopad a[href*="javascript:ShowHide"]:hover, #ipbwrapper .barc a[href*="javascript:ShowHide"]:hover, #ipbwrapper .bar a[href*="javascript:ShowHide"]:hover {
+#ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > span a:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td div > a:hover, a[title="Удалить пост"]:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",1);"]:hover, #ipbwrapper > .borderwrap table.ipbtable[data-post] tr:nth-child(3) td:nth-child(2) div[id*="ka_"] a[onclick*=",-1);"]:hover, #ipbwrapper table tbody tr td.nopad a:hover, #ipbwrapper .nopad a[href*="reply"]:hover, #ipbwrapper .barc a[href*="reply"]:hover, #ipbwrapper .bar a[href*="reply"]:hover, #ipbwrapper .nopad a[href*="javascript:ShowHide"]:hover, #ipbwrapper .barc a[href*="javascript:ShowHide"]:hover, #ipbwrapper .bar a[href*="javascript:ShowHide"]:hover {
     opacity: 0.8 !important;
 }
 .postdetails img[alt="+"] {
